@@ -1,3 +1,5 @@
+package rename_method;
+
 public class rename {
     public static String officeAreaCode = "123";
     public static String officephoneNumber = "456";
@@ -20,7 +22,7 @@ public class rename {
     public static String getTelephoneNumber() {
         return getOfficeTelephoneNumber();
     }
-    
+
     public static void main(String[] args) {
         System.out.println(getTelephoneNumber());
     }

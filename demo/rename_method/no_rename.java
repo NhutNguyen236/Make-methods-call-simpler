@@ -1,3 +1,5 @@
+package rename_method;
+
 public class no_rename {
     public static String officeAreaCode = "123";
     public static String officephoneNumber = "456";
