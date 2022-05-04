@@ -1,8 +1,17 @@
-package add_param;
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package AddParameter.noParam;
 import java.util.ArrayList;
 
-public class no_param {
-    public static ArrayList<String> customerQueue = new ArrayList<String>();
+/**
+ *
+ * @author STUDENT TDTU
+ */
+public class Reservation {
+    public static ArrayList<String> customerQueue = new ArrayList<>();
 
     /**
      * This method is used to add a customer to the customer queue.
