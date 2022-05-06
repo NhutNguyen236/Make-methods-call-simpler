@@ -15,10 +15,10 @@ public class Office {
     public static String officephoneNumber = "456";
 
     /**
-     * There comes a method that without params and a nonsense method name
+     * There comes a method that without parameters and a nonsense method name
      *
      * @author NhutNguyen236
-     * @return String this will return a pre-defined phone number info
+     * @return String this will return a predefined phone number info
      */
     public static String getTelephoneNumber() {
         return "(" + officeAreaCode + "-" + officephoneNumber + ")";
